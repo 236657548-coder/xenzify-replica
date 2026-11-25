@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Xenzify">
+  <style>
+    path{stroke:#1d1d1f}
+    @media (prefers-color-scheme:dark){path{stroke:#f5f5f7}}
+  </style>
+  <path d="M18 18 L46 46 M46 18 L18 46" stroke-width="12" stroke-linecap="round" fill="none"/>
+</svg>
